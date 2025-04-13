@@ -1,27 +1,4 @@
-# The Data Engineering Handbook
 
-This repo has all the resources you need to become an amazing data engineer!
-
-## Getting started
-
-If you are new to data engineering, start by following this [2024 breaking into data engineering roadmap](https://blog.dataengineer.io/p/the-2024-breaking-into-data-engineering)
-
-If you are here for the [6-week free YouTube boot camp](https://youtu.be/myhe0LXpCeo) you can check out
-- [introduction](bootcamp/introduction.md)
-- [software needed](bootcamp/software.md)
-
-
-For more applied learning:
-- Check out the [projects](projects.md) section for more hands-on examples!
-- Check out the [interviews](interviews.md) section for more advice on how to pass data engineering interviews!
-- Check out the [books](books.md) section for a list of high quality data engineering books
-- Check out the [communities](communities.md) section for a list of high quality data engineering communities to join
-- Check out the [newsletter](newsletters.md) section to learn via email 
-
-
-## Resources
-
-### Great [list of over 25 books](books.md)
 
 Top 3 must read books are:
 - [Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302/)
